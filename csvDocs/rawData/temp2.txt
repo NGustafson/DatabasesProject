@@ -1,0 +1,7 @@
+"Kathleen Cadden","Lecturer","kcadden@ucmerced.edu"
+"Huifang Dou","Lecturer","hdou@ucmerced.edu"
+"Svetla Gargova","Lecturer","sgargova@ucmerced.edu"
+"Chi Yan Leung","Lecturer","cleung3@ucmerced.edu"
+"Kelvin Lwin","Lecturer with Potential Security of Employment","klwin@ucmerced.edu"
+"Lynn Sullivan","Lecturer","lsullivan4@ucmerced.edu"
+"Taeil Yi","Lecturer","tyi3@ucmerced.edu"

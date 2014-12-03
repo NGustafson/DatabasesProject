@@ -1,0 +1,10 @@
+TODO LIST
+- data CSV files
+	- course data
+	- instructor data
+	- the rest can probably be put in manually
+	
+- python scripts to insert data to database
+- ui to view data
+- ui to modify data
+- schedule creator?

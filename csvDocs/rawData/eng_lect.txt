@@ -1,0 +1,10 @@
+"Engineering_Lecturers"
+"lecturername.href","lecturername.text","lecturertitle","lectureremail.href","lectureremail.text"
+"http://engineering.ucmerced.edu/content/kathleen-cadden","Kathleen Cadden","Lecturer","mailto:kcadden@ucmerced.edu","kcadden@ucmerced.edu"
+"http://engineering.ucmerced.edu/content/huifang-dou","Huifang Dou","Lecturer","mailto:hdou@ucmerced.edu","hdou@ucmerced.edu"
+"http://engineering.ucmerced.edu/content/svetla-gargova","Svetla Gargova","Lecturer","mailto:sgargova@ucmerced.edu","sgargova@ucmerced.edu"
+"http://engineering.ucmerced.edu/content/chi-yan-leung","Chi Yan Leung","Lecturer","mailto:cleung3@ucmerced.edu","cleung3@ucmerced.edu"
+"http://engineering.ucmerced.edu/content/kelvin-lwin","Kelvin Lwin","Lecturer with Potential Security of Employment","mailto:klwin@ucmerced.edu","klwin@ucmerced.edu"
+"http://engineering.ucmerced.edu/content/lynn-sullivan","Lynn Sullivan","Lecturer","mailto:lsullivan4@ucmerced.edu","lsullivan4@ucmerced.edu"
+"http://engineering.ucmerced.edu/content/taeil-yi","Taeil Yi","Lecturer","mailto:tyi3@ucmerced.edu","tyi3@ucmerced.edu"
+
