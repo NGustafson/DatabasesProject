@@ -1,9 +1,8 @@
 TODO LIST	
-	- python scripts to insert data to database
-		-instructor names don't match up between CSVs
 	- ui to view data
 	- ui to modify data
 	- schedule creator?
 
 DONE LIST
 	- data CSV files
+	- python scripts to insert data to database
