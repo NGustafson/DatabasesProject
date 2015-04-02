@@ -1,8 +1,0 @@
-TODO LIST	
-	- ui to view data
-	- ui to modify data
-	- schedule creator?
-
-DONE LIST
-	- data CSV files
-	- python scripts to insert data to database
